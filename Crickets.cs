@@ -10,7 +10,7 @@ public class crickets : MonoBehaviour
     }
     void Update()
     {
-        //в консоли каждый кадр выводится слово «crickets».
+        //РІ РєРѕРЅСЃРѕР»Рё РєР°Р¶РґС‹Р№ РєР°РґСЂ РІС‹РІРѕРґРёС‚СЃСЏ СЃР»РѕРІРѕ В«cricketsВ».
         print("crickets");
     }
 }
