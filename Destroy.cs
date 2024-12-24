@@ -6,7 +6,7 @@ public class Destroy : MonoBehaviour
 {
     void Start()
     {
-        //для уничтожения игрового объекта в начале игры
+        //РґР»СЏ СѓРЅРёС‡С‚РѕР¶РµРЅРёСЏ РёРіСЂРѕРІРѕРіРѕ РѕР±СЉРµРєС‚Р° РІ РЅР°С‡Р°Р»Рµ РёРіСЂС‹
         Destroy(gameObject);
     }
     void Update()
